@@ -1,8 +1,5 @@
 # Ping Tools with Batch Script
 A simple and easy tool for pinging in Windows OS
-<div align="center">
-  <img src="./example.jpg" alt="Ping tools with batch">
-</div>
 ## Getting Started
 If you are interested in online games like me and use the Windows operating system. I recommend using this script.
 ### Usage
